@@ -61,4 +61,4 @@ typings/
 .env
 
 # Mac files
-.DS_Store
+.DS_Storenode_modules
